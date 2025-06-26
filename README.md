@@ -41,7 +41,8 @@ This Power BI dashboard analyzes employee attrition trends using IBM’s HR Anal
 
 ## 📷 Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot]![Screenshot 2025-06-27 015001](https://github.com/user-attachments/assets/23a15b72-d9e6-461f-aaaf-835a1b7dd0e6)
+
 
 ---
 
